@@ -1,1 +1,1 @@
-# Starting-Tips-of-GIthub
+# Starting-Tips-of-Github
